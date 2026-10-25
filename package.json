@@ -1,0 +1,12 @@
+{
+  "name": "menuforge-themes",
+  "private": true,
+  "description": "MenuForge theme catalog: catalog.json, published .mftheme archives, and the packaging script.",
+  "type": "module",
+  "scripts": {
+    "build-mftheme": "node scripts/build-mftheme.mjs"
+  },
+  "devDependencies": {
+    "adm-zip": "0.5.18"
+  }
+}
