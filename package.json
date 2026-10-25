@@ -7,6 +7,6 @@
     "build-mftheme": "node scripts/build-mftheme.mjs"
   },
   "devDependencies": {
-    "adm-zip": "0.5.18"
+    "adm-zip": "0.6.1"
   }
 }
