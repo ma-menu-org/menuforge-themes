@@ -1,15 +1,4 @@
 {
-  "catalogVersion": "2026-09-09",
-  "themes": [
-    {
-      "id": "harbor",
-      "name": "Harbor",
-      "description": "End-to-end test theme, packaged verbatim from the reference boutique theme.",
-      "version": "1.0.0",
-      "downloadUrl": "https://raw.githubusercontent.com/ma-menu-org/menuforge-themes/main/themes/harbor-1.0.0.mftheme",
-      "checksum": "f6386500ff729444ac96e886f0bb974259e49a12c004444bdab33f0f5ed81795",
-      "isPremium": false,
-      "requiredFeatureId": null
-    }
-  ]
+  "catalogVersion": "2026-10-25",
+  "themes": []
 }
